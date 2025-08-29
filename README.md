@@ -48,6 +48,9 @@ Missions automatically fail on death (except the kill mission, which allows revi
 
 Automatic cleanup of vehicles, peds, and blips after missions.
 
+Easy configuration of mission locations and NPC models.
+
+
 <img width="714" height="553" alt="image" src="https://github.com/user-attachments/assets/dfad1ed1-cfdc-463a-8961-88d7fff8e04a" />
 <img width="665" height="619" alt="image" src="https://github.com/user-attachments/assets/26a06cdc-6aaa-4d86-a73c-789a84059e31" />
 <img width="388" height="125" alt="image" src="https://github.com/user-attachments/assets/49c4f6f7-b75e-408f-8a7c-1c48cd587d2e" />
@@ -63,13 +66,3 @@ Automatic cleanup of vehicles, peds, and blips after missions.
 <img width="374" height="74" alt="image" src="https://github.com/user-attachments/assets/c719d658-0ffc-4750-b848-9d7f3e816576" />
 
 
-
-
-
-
-
-
-
-
-
-Easy configuration of mission locations and NPC models.
